@@ -1,0 +1,2 @@
+# jiro_portfolio
+RubyonRailsでのアプリケーション作成ポートフォリオです
